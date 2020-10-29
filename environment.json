@@ -1,0 +1,9 @@
+{
+    "config": 
+    {
+        "buildpack": "StataBuildPack",
+	"environment": [
+		"VERSION=16"
+	]
+    }
+}
